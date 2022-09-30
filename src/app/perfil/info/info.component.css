@@ -1,0 +1,11 @@
+.infos {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(192, 145, 83);
+}
+
+.info-container{
+    background-color: rgb(221, 192, 131);
+    border-radius: 10px;
+    padding: 5px;
+}
