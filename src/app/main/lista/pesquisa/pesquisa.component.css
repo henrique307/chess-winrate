@@ -1,0 +1,17 @@
+.lupa{
+    width: 20px;
+}
+
+.pesquisa-input {
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.pesquisa-container{
+    padding: 0 10%;
+}
+
+.pesquisa-botao {
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}

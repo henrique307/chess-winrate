@@ -9,7 +9,15 @@ export class PesquisaComponent implements OnInit {
 
   constructor() { }
 
+
+
   ngOnInit(): void {
+  }
+
+  searchValue:string = '';
+
+  onChangeFunction() {
+    console.log(this.searchValue)
   }
 
 }

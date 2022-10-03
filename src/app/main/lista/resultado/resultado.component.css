@@ -1,0 +1,30 @@
+.resultado-main {
+    width: 100%;
+}
+
+.grid {
+    margin: 0 auto;
+    width: 90%;
+    row-gap: 20px;
+    display: grid;
+    grid-auto-rows: 50px;
+    grid-template-columns: 100%;
+}
+
+.win {
+    border-radius: 10px;
+    background-color: rgb(210, 255, 143);
+    border-left: solid rgb(101, 124, 67) 13px;
+}
+
+.lose {
+    border-radius: 10px;
+    background-color: rgb(255, 143, 143);
+    border-left: solid rgb(124, 67, 67) 13px;
+}
+
+.draw {
+    border-radius: 10px;
+    background-color: rgb(122, 122, 122);
+    border-left: solid rgb(49, 49, 49) 13px;
+}
